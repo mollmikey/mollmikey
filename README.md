@@ -1,4 +1,5 @@
 
-![github-header-image (2)](https://github.com/mollmikey/mollmikey/assets/104609759/8c2427a1-1983-4b65-87e4-3404140d07b1)
 
+
+![github-header-image (1)](https://github.com/mollmikey/mollmikey/assets/104609759/bd35b393-9f89-4cac-ac2a-8e1d442e7b7a)
 ## Tech Stack
