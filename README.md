@@ -11,3 +11,6 @@
 [![CSS](https://img.shields.io/badge/CSS-grey?&style=flat-square&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp/)
 [![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Git](https://img.shields.io/badge/GIT-grey?style=for-flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![UIzard](https://img.shields.io/badge/UIzard-grey?style=flat-square)](https://uizard.io/?transaction_id=102fff897efe828134514e4048ce36&offer_id=3&affiliate_id=19&utm_campaign=affiliates&utm_term=uizard+pro+21&utm_source=affilate_&utm_medium=affiliate)
