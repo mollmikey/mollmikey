@@ -1,4 +1,1 @@
-![Header](https://raw.githubusercontent.com/mollmikey/mollmikey/main/assets/104609759/1cb35484-0f04-4a36-8e7e-09ba61892f9e/github-header-image(7).png)
-
-
-
+![Header](./[mollmikey/assets/104609759/4778424d-b2b8-4b03-8da6-4449a608e5c3])
