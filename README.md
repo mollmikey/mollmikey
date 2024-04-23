@@ -7,6 +7,7 @@
 [![React](https://img.shields.io/badge/React-grey?style=flat-square&logo=react)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-grey?style=flat-square&logo=express)](https://expressjs.com/)
-[![SQL](https://img.shields.io/badge/SQL-grey?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
-[![CSS](https://img.shields.io/badge/CSS-grey?&style=lat-square&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp/)
-
+[![SQLite](https://img.shields.io/badge/SQLite-grey?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![CSS](https://img.shields.io/badge/CSS-grey?&style=flat-square&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp/)
+[![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
