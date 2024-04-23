@@ -8,6 +8,5 @@
 [![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-grey?style=flat-square&logo=express)](https://expressjs.com/)
 [![SQL](https://img.shields.io/badge/SQL-grey?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
-
-[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+[![CSS](https://img.shields.io/badge/CSS-grey?&style=lat-square&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp/)
 
