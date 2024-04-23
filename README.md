@@ -1,3 +1,4 @@
 
-![github-header-image (2)_resized](https://github.com/mollmikey/mollmikey/assets/104609759/4b74b197-f656-4496-a4d3-a0d1307c71ea)
+![Screenshot 2024-04-23 at 12 50 43 PM_resized](https://github.com/mollmikey/mollmikey/assets/104609759/a3932050-13b6-4ccd-ac19-9a1ca48652f5)
+
 ## Tech Stack
