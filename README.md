@@ -1,7 +1,7 @@
 
 ![Screenshot 2024-04-23 at 12 50 43 PM_resized](https://github.com/mollmikey/mollmikey/assets/104609759/a3932050-13b6-4ccd-ac19-9a1ca48652f5)
 
-Welcome, please have a browse through my GitHub profile to have a look at all my web developent projects I have built. I am continuously building new projects and expanding my learning! 
+Please have a browse through my GitHub profile to have a look at all my web developent projects I have built. I am continuously building new projects and expanding my learning! 
 
 ## Tech Stack
 [![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
